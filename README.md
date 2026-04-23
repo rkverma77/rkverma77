@@ -18,11 +18,14 @@ I'm Roshan Kumar Verma, a Computer Science & Engineering student at NIT Jalandha
   <a href="https://leetcode.com/u/rk_verma/">
     <img src="https://leetcard.jacoblin.cool/rk_verma?theme=dark" alt="LeetCode Stats" width="48%">
   </a>
-  <a href="https://github.com/rkverma77">
-    <img src="https://github-readme-stats.vercel.app/api?username=rkverma77&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <a href="https://codeforces.com/profile/rk_verma">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rk_verma&theme=dark" alt="Codeforces Stats" width="48%">
   </a>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkverma77&layout=compact&theme=radical" alt="Top Languages">
+  <a href="https://github.com/rkverma77">
+    <img src="https://github-readme-stats.vercel.app/api?username=rkverma77&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkverma77&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </div>
