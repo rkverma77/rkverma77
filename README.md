@@ -2,7 +2,7 @@
 I'm Roshan Kumar Verma, a Computer Science & Engineering student at NIT Jalandhar with a deep-rooted passion for algorithmic problem-solving and backend architecture. Whether I'm optimizing complex data structures for competitive programming or engineering scalable server-side logic, I thrive on turning logic into efficient, high-impact code. Currently, I'm focused on building robust backend systems while consistently tackling challenges on platforms like Codeforces to sharpen my technical edge.
 
 
-## 🌐 Socials & Coding Profiles:
+# 🌐 Socials & Coding Profiles:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-verma-367109282/) 
 [![LeetCode Knight](https://img.shields.io/badge/LeetCode_Knight-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/rk_verma/) 
